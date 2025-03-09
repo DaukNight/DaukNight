@@ -29,21 +29,21 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65"/>
+      <br>aws
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
+     <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
+  <br>Docker
+   </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -55,8 +55,8 @@
       <br>Django
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+       <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+      <br>PI
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -67,16 +67,16 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="bootstrap" />
+      <br>Figma
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="jQuery" />
+      <br>Pytorch
     </td>
   </tr>
   <tr>
@@ -85,12 +85,12 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Nodejs" />
+      <br>Kali
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
+        <img src="https://skillicons.dev/icons?i=mint" width="48" height="48" alt="PHP" />
+      <br>Mint
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
@@ -98,17 +98,17 @@
     </td>
     <td align="center" width="96">
       <!-- <a href="https://drive.google.com/file/d/1s2Zhy-I_CQHDhpOhVUfmQmWLpfu6Amiz/view?usp=sharing"> -->
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <!-- </a> -->
-      <br>Vue
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="Sass" />
+      <br>CV
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="PostgreSQL" />
+      <br>TensorFlow
     </td>
  </tr>
 </table>
